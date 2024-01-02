@@ -1,0 +1,10 @@
+Size: 16
+Milk 0 2 
+Butter 0 500 
+Egg 0 30 
+Bacon 0 7 
+Oats 0 2 
+Pancakes 0 2 
+Coffee 0 1 
+Bornana 0 5 
+Chocolate 0 23 
